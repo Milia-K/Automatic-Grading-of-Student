@@ -10,13 +10,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(215, 187, 243);
+    background-color: rgb(196, 194, 199);
     width: 100%;
     height: 100%;
 }
 
 .list{
-    background-color: rgb(234, 220, 248);
+    background-color: rgb(255, 255, 255);
     width: 80%;
     height: 90%;
     padding: 1%;
@@ -33,7 +33,7 @@
 
 #btn{
     padding: 4px 8px ;
-    background: rgb(215, 187, 243);
+    background: rgb(196, 194, 199);
     border-radius: 5px;
     align-items: end;
     position: relative;
